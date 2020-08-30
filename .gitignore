@@ -1,1 +1,5 @@
 /identicon-1.0.1.tar.gz
+/identicon-1.0.1
+
+*.rpm
+*.log
